@@ -1,5 +1,5 @@
 # practica-control-versiones
-Autor Yeferson 
+Autor Karol
 
 
-Descripcion: Poryecto ERP de perfumeria 
+Descripcion: Poryecto ERP de perfumeria segunda rama
